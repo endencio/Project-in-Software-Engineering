@@ -19,7 +19,7 @@ Repository
 		
 		<div class="content">
 			
-			<div class="banner">BEST LAYER, INC</div>
+			<div class="banner">BEST LAYER, INC. . . . </div>
 			<div class="content-body">
 				
 				<img src="airplane.jpg" alt="Airplane" style="width:778px;border:1px solid #999;" />
