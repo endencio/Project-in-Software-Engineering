@@ -1,0 +1,108 @@
+body {
+	font-family:Arial;
+	font-size:small;
+	color:#333;
+	margin:0;
+	background:#333;
+}
+
+h1 {
+	border-bottom:1px dotted #999;
+	margin:0px 0px 10px 0px;
+	padding:5px;
+}
+
+.menu {
+	background:#333;
+	padding:10px 0px;
+	position:fixed;
+	width:100%;
+}
+
+.menu a {
+	padding:10px 30px;
+	color:#fff;
+	font-weight:bold;
+	text-decoration:none;
+}
+
+.menu a:hover {
+	background:#666;
+}
+
+.wrapper {
+	background:#f0f0f0;
+	padding:60px 0px 30px 0px;
+}
+
+.content {
+	background:#fff;
+	width:800px;
+	margin:0px auto;
+	box-shadow:0px 0px 4px #666;
+	border-radius:7px;
+}
+
+.banner {
+	padding:50px 10px;
+	font-size:xx-large;
+	text-align:center;
+	border-bottom:1px solid #ccc;
+}
+
+.content-body {
+	padding:10px;
+	min-height:450px;
+}
+
+.product-box {
+	padding:10px;
+	border:2px solid #c0c0c0;
+	background:#ffc;
+	float:left;
+	margin:5px;
+}
+
+.product-box img {
+	margin-bottom:10px;
+	border:1px solid #c0c0c0;
+}
+
+.footer {
+	color:#fff;
+	padding:10px;
+	text-align:center;
+}
+
+.footer hr {
+	border:0;
+	background:#666;
+	height:1px;
+}
+
+.FormTable {
+	margin:auto;
+}
+
+.FormTable td {
+	padding:10px;
+}
+
+.FormTable input[type="text"], .FormTable input[type="password"] {
+	width:250px;
+	padding:7px 10px;
+	border:1px solid #999;
+	border-radius:3px;
+}
+
+.FormTable input[type="submit"] {
+	border-width: 1px 1px 2px 1px;
+	border-color:#666;
+	border-style: solid;
+	border-radius:7px;
+	padding:7px 20px;
+	background:linear-gradient(#fff,#f0f0f0);
+	color:#666;
+	font-weight:bold;
+	font-family:Arial;
+}
