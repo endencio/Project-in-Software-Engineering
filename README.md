@@ -41,7 +41,7 @@ Repository
 		<hr/>
 		Developed by:
 		<br/>
-		Bola&ntilde;os, Jinon, Lamson, Marcelo, Taton, Tamargo
+		Bola&ntilde;os, Endencio, Jinon, Lamson, Marcelo, Taton, Tamargo
 	</div>
 	
 	
